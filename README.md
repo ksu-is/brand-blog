@@ -23,11 +23,11 @@ ___
 ### Task List
 ___
 
-- [ ] Set up README
-- [ ] Setup task list with check boxes
-- [ ] Find related repository
-- [ ] Clone repository into team
-- [ ] Ensure repository is public
+- [X] Set up README
+- [X] Setup task list with check boxes
+- [X] Find related repository
+- [X] Clone repository into team
+- [X] Ensure repository is public
 - [ ] Assign an open source license
 - [ ] Make sure team members have access to repository
 
@@ -51,16 +51,16 @@ ___
 - [ ] ...
 
 #### D.Oreko
+- [ ] Find related repository
+- [ ] Evalutate related respository
+- [ ] Clone respository
+- [ ] Change templates
+- [ ] launch websites
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
-- [ ] Evaluate related repositoriies [1]
-- [ ] Evaluate related repositoriies [2]
-- [ ] Evaluate related repositoriies [3]
-- [ ] Evaluate related repositoriies [4]
-- [ ] Evaluate related repositoriies [5]
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
 
 ___
