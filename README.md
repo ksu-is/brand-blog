@@ -1,6 +1,6 @@
 # Brand Website
 The goal of this project is to create a blog that allows the user to learn more about a brand I want to make. 
-We used Django to create
+We used Django to create said blog
 
 ## What purpose of this project: 
 
@@ -28,10 +28,10 @@ ___
 - [X] Clone repository into team
 - [X] Ensure repository is public
 - [ ] Assign an open source license
-- [ ] Make sure team members have access to repository
+- [X] Make sure team members have access to repository
 
-- [ ] Evaluate related repository
-- [ ] Test repository & get it running
+- [X] Evaluate related repository
+- [X] Test repository & get it running
 - [ ] Document how to work [xx] repository 
 - [ ] Document issues encounted
 
@@ -39,9 +39,9 @@ ___
 
 #### M.Daven
 
-- [ ] Find related repository
-- [ ] Evalutate related respository
-- [ ] Clone respository
+- [X] Find related repository
+- [X] Evalutate related respository
+- [X] Clone respository
 - [ ] Change templates
 - [ ] launch websites
 - [ ] ...
@@ -50,9 +50,9 @@ ___
 - [ ] ...
 
 #### D.Oreko
-- [ ] Find related repository
-- [ ] Evalutate related respository
-- [ ] Clone respository
+- [X] Find related repository
+- [X] Evalutate related respository
+- [X] Clone respository
 - [ ] Change templates
 - [ ] launch websites
 - [ ] ...
