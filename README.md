@@ -35,8 +35,6 @@ ___
 - [ ] Document how to work [xx] repository 
 - [ ] Document issues encounted
 
-
-
 #### M.Daven
 
 - [X] Find related repository
@@ -44,10 +42,6 @@ ___
 - [X] Clone respository
 - [ ] Change templates
 - [ ] launch websites
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
 #### D.Oreko
 - [X] Find related repository
@@ -55,15 +49,6 @@ ___
 - [X] Clone respository
 - [ ] Change templates
 - [ ] launch websites
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-
-
-___
-___
 
 
 
