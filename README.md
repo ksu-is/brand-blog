@@ -1,4 +1,4 @@
-# Brand Website
+# Brand Blog
 The goal of this project is to create a blog that allows the user to learn more about a brand I want to make. 
 We used Django to create said blog
 
