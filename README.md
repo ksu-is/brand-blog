@@ -27,13 +27,13 @@ ___
 - [X] Find related repository
 - [X] Clone repository into team
 - [X] Ensure repository is public
-- [ ] Assign an open source license
+- [X] Assign an open source license
 - [X] Make sure team members have access to repository
 
 - [X] Evaluate related repository
 - [X] Test repository & get it running
-- [ ] Document how to work [xx] repository 
-- [ ] Document issues encounted
+- [X] Document how to work [xx] repository 
+- [X] Document issues encounted
 
 #### M.Daven
 
