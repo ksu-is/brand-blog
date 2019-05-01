@@ -10,7 +10,7 @@ The idea is to create a website to promote a brand.
 * Will install django
 * Use templates to design website.
 * feature 5 pages
-
+* launch using python manage.py django_project_3
 
 
 #### Who will use: 
