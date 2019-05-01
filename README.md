@@ -1,5 +1,5 @@
 # Brand Blog
-The goal of this project is to create a blog that allows the user to learn more about a brand I want to make. 
+The goal of this project is to create a blog that allows brands to run their on blog site with admins and user backend set up
 We used Django to create said blog
 
 ## What purpose of this project: 
